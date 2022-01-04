@@ -1,0 +1,87 @@
+objects
+-------
+** Everything in python is object **
+
+*** Every object contains set of methods ****
+
+
+number
+-------
+number can be integer or decimal or octal or hexa
+
+aval = 10
+bval = 45.43
+
+string
+--------
+string can be defined in single or double or triple quotes.
+
+aname = 'python'
+bname = "java programming"
+cname = """hadoop admin"""
+
+
+
+list  ( array in C )
+--------------------
+list contains set of elements.
+Elements can be set of numbers or strings or any combination.
+list elements are defined in [].
+
+alist = [10,20,56,4]
+blist = ["python","java","oracle"]
+clist = [45,4.4,"python"]
+
+
+
+
+
+tuple  ( READ ONLY , unchangable , immutable )
+-----
+tuple contains set of elements.
+Elements can be set of numbers or strings or any combination.
+tuple elements are defined in ().
+tuple is immutable by default.
+***** Elements inside tuple cannot be modified *******
+
+
+
+
+dictionary
+------------
+dictionary contains elements in the form of keys and values.
+dictionary elements are defined in {}.
+
+
+syntax:    object = { key:value , key:value }
+example:    book  = {"chap1":10 ,"chap2":20 ,"chap3":30 }
+            info  = {1:2,3:4,5:6}
+
+
+
+set
+----
+set is UNORDERED COLLECTION of UNIQUE values of same type.
+set is defined in {}.
+
+aset = {10,10,10,20}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+set
+
